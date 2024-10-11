@@ -1,4 +1,4 @@
-import '../../styles/footer.styl';
+import '../../../assets/styles/organisms/footer.styl';
 
 function Footer() {
     return (

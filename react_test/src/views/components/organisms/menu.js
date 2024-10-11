@@ -1,4 +1,4 @@
-import '../../styles/menu.styl';
+import '../../../assets/styles/organisms/menu.styl';
 
 function Menu() {
     return (

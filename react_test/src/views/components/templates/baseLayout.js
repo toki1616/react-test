@@ -2,7 +2,7 @@ import Header from '../organisms/header';
 import Menu from '../organisms/menu';
 import Footer from '../organisms/footer';
 
-import '../../styles/templates/baseLayout.styl';
+import '../../../assets/styles/templates/baseLayout.styl';
 
 export const DefaultLayout = (props) => {
   const { children } = props;

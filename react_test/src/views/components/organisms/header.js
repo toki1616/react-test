@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import '../../styles/header.styl';
+import '../../../assets/styles/organisms/header.styl';
 
 function Header() {
     return (
